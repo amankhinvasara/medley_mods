@@ -35,6 +35,6 @@
   "events": [],
   "num_servers": "256",
   "churn_ratio": "0.5",
-  "churn_path": "../overnet/processed/newtrace.txt",
+  "churn_path": "../../churntrace.txt",
   "use_churn": "true"
 }
